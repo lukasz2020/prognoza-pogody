@@ -4,7 +4,7 @@ import { Grommet } from 'grommet'
 import CityWeatherPage from './containers/CityWeatherContainer'
 import { Provider } from 'react-redux'
 import * as serviceWorker from './serviceWorker'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 import configureStore from './configureStore'
 
 const theme = {
@@ -21,7 +21,7 @@ const store = configureStore()
 
 ReactDOM.render(
   <Provider store={store}>
-    <Router basename="/prognoza-pogody">
+    <Router>
       <Grommet theme={theme}>
         <Switch>
           <Route path='/:city?'>
