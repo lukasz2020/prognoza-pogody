@@ -31,7 +31,7 @@ function Weather (props) {
         primaryKey='name'
         secondaryKey='value'
         data={[
-          { name: 'Temperatura odczuwalna', value: formatWeatherParam(weather.get('temperature'), CELSIUS_SYMBOL) },
+          { name: 'Temperatura odczuwalna', value: formatWeatherParam(weather.get('feelsLike'), CELSIUS_SYMBOL) },
           { name: 'Ciśnienie', value: formatWeatherParam(weather.get('pressure'), PRESSURE_SYMBOL) },
           { name: 'Wilgotność', value: formatWeatherParam(weather.get('humidity'), HUMIDITY_SYMBOL) },
           { name: 'Siła wiatru', value: formatWeatherParam(weather.get('windSpeed'), WIND_SPEED_SYMBOL) }
