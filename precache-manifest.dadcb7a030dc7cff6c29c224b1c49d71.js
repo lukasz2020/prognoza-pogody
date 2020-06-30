@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b89ef12efb2753daf1c3215af09d882",
+    "revision": "186bc85a61ccce281d92b588f1279651",
     "url": "/prognoza-pogody/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prognoza-pogody/static/js/2.a78abd11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15e61d04c6d379c724e6",
-    "url": "/prognoza-pogody/static/js/main.da4e6e89.chunk.js"
+    "revision": "5ca97ac196c7b547ef5e",
+    "url": "/prognoza-pogody/static/js/main.2f527d65.chunk.js"
   },
   {
     "revision": "bd8a9fb32e4cd72ea1cf",

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/prognoza-pogody/static/js/main.da4e6e89.chunk.js",
-    "main.js.map": "/prognoza-pogody/static/js/main.da4e6e89.chunk.js.map",
+    "main.js": "/prognoza-pogody/static/js/main.2f527d65.chunk.js",
+    "main.js.map": "/prognoza-pogody/static/js/main.2f527d65.chunk.js.map",
     "runtime-main.js": "/prognoza-pogody/static/js/runtime-main.6654ba9b.js",
     "runtime-main.js.map": "/prognoza-pogody/static/js/runtime-main.6654ba9b.js.map",
     "static/js/2.a78abd11.chunk.js": "/prognoza-pogody/static/js/2.a78abd11.chunk.js",
     "static/js/2.a78abd11.chunk.js.map": "/prognoza-pogody/static/js/2.a78abd11.chunk.js.map",
     "index.html": "/prognoza-pogody/index.html",
-    "precache-manifest.c3e6a487f04a22b61f333f59721aedc0.js": "/prognoza-pogody/precache-manifest.c3e6a487f04a22b61f333f59721aedc0.js",
+    "precache-manifest.dadcb7a030dc7cff6c29c224b1c49d71.js": "/prognoza-pogody/precache-manifest.dadcb7a030dc7cff6c29c224b1c49d71.js",
     "service-worker.js": "/prognoza-pogody/service-worker.js",
     "static/js/2.a78abd11.chunk.js.LICENSE.txt": "/prognoza-pogody/static/js/2.a78abd11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6654ba9b.js",
     "static/js/2.a78abd11.chunk.js",
-    "static/js/main.da4e6e89.chunk.js"
+    "static/js/main.2f527d65.chunk.js"
   ]
 }
