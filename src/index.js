@@ -21,7 +21,7 @@ const store = configureStore()
 
 ReactDOM.render(
   <Provider store={store}>
-    <Router>
+    <Router basename="/prognoza-pogody">
       <Grommet theme={theme}>
         <Switch>
           <Route path='/:city?'>

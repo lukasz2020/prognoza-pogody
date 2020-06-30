@@ -18,7 +18,7 @@ function Weather (props) {
   const { weather } = props
 
   return (
-    <Box direction='column' margin={{ right: 'medium' }} justify='center' alignSelf='start'>
+    <Box direction='column' margin={{ right: 'medium', top: 'medium' }} justify='center' alignSelf='start'>
       <Box>
         <Heading textAlign='center' margin='none'>{weather.get('cityName')}</Heading>
         <Box direction='row' justify='center'>
